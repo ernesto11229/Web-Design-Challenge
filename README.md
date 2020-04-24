@@ -5,8 +5,8 @@ This project is a climate and exploration analysis with visualizations hosted on
 * Python
 * html
 * Bootstrap
-*css
-*Visual studio code
+* css
+* Visual studio code
 #### Authors
 * Ernesto Beltran
 ##### Acknowledments

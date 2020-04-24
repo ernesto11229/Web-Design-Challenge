@@ -1,3 +1,3 @@
 
-<a href="'WebVisualizations/Visualizations/index.html'">c</a>
+<a href="'WebVisualizations/Visualizations/index.html'">Click here to go to Latitude website</a>
 

@@ -1,4 +1,4 @@
-# Web-Design-Challenge
+
 <html>
    <head>
       <title>Title of the document</title>
